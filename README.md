@@ -1,2 +1,2 @@
-# site_wm2_2022_spring_as1
-Template of the Assignment 1
+<h1> Assignment 1 </h1>
+<h3> Practicing git and JSP. </h3>
