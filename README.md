@@ -3,7 +3,7 @@
 
 Dear students,
 
-In this assignment, you need to submit your first JSP file. If requires additional reading and practicing. The requirements are simple:
+In this assignment, you need to submit your first JSP file. It requires additional reading and practicing. The requirements are simple:
 
 <h4> JSP related: </h4>
 <ul>
